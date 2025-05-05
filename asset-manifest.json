@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/best-store/static/js/main.a7dd4c68.js",
+    "main.js": "/best-store/static/js/main.abcab9fc.js",
     "index.html": "/best-store/index.html",
-    "main.a7dd4c68.js.map": "/best-store/static/js/main.a7dd4c68.js.map"
+    "main.abcab9fc.js.map": "/best-store/static/js/main.abcab9fc.js.map"
   },
   "entrypoints": [
-    "static/js/main.a7dd4c68.js"
+    "static/js/main.abcab9fc.js"
   ]
 }
